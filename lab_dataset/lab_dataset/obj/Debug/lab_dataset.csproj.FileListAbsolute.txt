@@ -1,0 +1,15 @@
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\bin\Debug\lab_dataset.exe.config
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\bin\Debug\lab_dataset.exe
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\bin\Debug\lab_dataset.pdb
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.csproj.AssemblyReference.cache
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\MainWindow.g.cs
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\App.g.cs
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset_MarkupCompile.cache
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset_MarkupCompile.lref
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\MainWindow.baml
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.g.resources
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.Properties.Resources.resources
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.csproj.GenerateResource.cache
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.csproj.CoreCompileInputs.cache
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.exe
+C:\Users\cutec\source\repos\lab_dataset\lab_dataset\obj\Debug\lab_dataset.pdb
